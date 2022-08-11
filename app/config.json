@@ -1,0 +1,5 @@
+{
+    "server": "rockserver",
+    "port": 5000,
+    "log": "files/events.log"
+}
